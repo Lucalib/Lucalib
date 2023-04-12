@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Lucalib
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Lucas
+- 👀 I’m interested in soccer, guitar and programming.
 - 🌱 I’m currently learning Computer Programming and Analysis "cpa3"
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
