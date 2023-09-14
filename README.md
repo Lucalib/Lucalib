@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in soccer, guitar and programming.
-- 🌱 I’m currently learning Computer Programming and Analysis "cpa3"
+- 🌱 I’m currently learning Computer Programming and Analysis "CPA3"
 - 📫 How to reach me ...
 
 <!---
