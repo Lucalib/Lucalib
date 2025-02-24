@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Lucas
-- 👀 I’m interested in soccer, guitar and programming.
-- 🌱 I’m currently learning Computer Programming and Analysis "CPA3"
-- 📫 How to reach me ...
 
 <!---
 Lucalib/Lucalib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
